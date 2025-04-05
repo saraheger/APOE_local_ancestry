@@ -29,4 +29,5 @@ Based off of https://github.com/broadinstitute/gnomad_local_ancestry \
 
 ## 4. Infer and extract local ancestry of study genomes (RFmix & Tractor)
 - Perform LAI on the imputed/phased study genomes
+- Check if LAI summed ancestries are comparable to ADMIXTURE global proportions
 - Get the haplotype and dosage counts for each ancestry
