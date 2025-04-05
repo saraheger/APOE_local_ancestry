@@ -15,5 +15,6 @@ Based off of https://github.com/broadinstitute/gnomad_local_ancestry
 - Run PC-AiR and select similar numbers of genomes per ancestral population
 
 ## 2. Perform PCA on merged reference panel and study genomes (PC-AiR)
-- Find the variants shared between the two datasets & merge with PLINK
+- Find the variants shared between the reference genomes and the unimputed study genomes
+- merge with PLINK
 - Run PC-AiR to visualize where the admixed population clusters 
