@@ -26,6 +26,7 @@ Based off of https://github.com/broadinstitute/gnomad_local_ancestry \
 - Extract the same prune set from the study genomes
 - Run ADMIXTURE on the reference panel genomes
 - Project the study genomes onto the reference panel output
+- Determine if any study genomes are >95% for a single ancestry or only 2-way admixed
 
 ## 4. Infer and extract local ancestry of study genomes (RFmix & Tractor)
 - Perform LAI on the imputed/phased study genomes
