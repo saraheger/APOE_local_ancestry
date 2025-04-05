@@ -1,5 +1,5 @@
 # APOE_local_ancestry
-Genotyping and local ancestry inference at the APOE locus
+Genotyping and local ancestry inference at the APOE locus \
 Based off of https://github.com/broadinstitute/gnomad_local_ancestry
 ## Overview
 1. Create a reference panel of AFR, AMR and EUR genomes using PC-AiR
