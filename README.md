@@ -1,6 +1,7 @@
 # APOE_local_ancestry
 Genotyping and local ancestry inference at the APOE locus \
 Based off of https://github.com/broadinstitute/gnomad_local_ancestry \
+\
 **Input**: phased study genomes (if using array data you will need both the unimputed and imputed/phased versions of your data). For this example, we used array data phased and imputed with the TOPMed server (see https://github.com/HudsonAlpha/Pre-Imputation-QC-Pipeline) \
 **Output**: APOE genotypes and local ancestry assignments
 
